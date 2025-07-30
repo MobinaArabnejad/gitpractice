@@ -1,1 +1,1 @@
-# ML Git Practice
+# gitpractice
